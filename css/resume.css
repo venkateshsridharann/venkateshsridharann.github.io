@@ -182,5 +182,5 @@ a {
 .project-desc{
   width: 65%; 
   /*position:relative; */
-  float:right;
+  float:left;
 }
